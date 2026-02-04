@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anna</h1>
-<h3 align="center">Bridging mathematics, computation, data analysis and life science to build a quantitative and predictive biology.</h3>
+<h3 align="center">Bridging computation, data analysis and life science to build a quantitative and predictive biology.</h3>
 
 - 🔭 I’m currently working on [Mathematical modeling of neural circuits](https://github.com/anna-kogan/Computational_neuroscience_Gjorgjieva_lab)
 
