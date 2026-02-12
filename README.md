@@ -47,9 +47,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/anna-kogan/anna-kogan/output/snake.svg" alt="Snake animation" />
-
-###
