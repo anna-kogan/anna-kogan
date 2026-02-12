@@ -4,12 +4,9 @@
 
 ###
 
-<p align="center">
-  <strong>
-    Bridging computation, data analysis and life sciences to build a quantitative and predictive biology
-  </strong>
-</p>
-<br>
+<h3 align="center">
+    Bridging computation, data analysis and life sciences to build quantitative, predictive biology
+</h3>
 <br>
 
 ###
