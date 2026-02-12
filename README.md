@@ -1,12 +1,16 @@
-<div>
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=85&section=header&reversal=false&text=Hey,%20I'm%20Anna&fontSize=41&fontColor=FFFFFF&fontAlign=50&fontAlignY=75&stroke=000000&strokeWidth=1&animation=fadeIn&descSize=19&descAlign=50&descAlignY=40&textBg=false&color=72bf54"  />
 </div>
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=48&section=footer&reversal=false&text=Bridging%20computation,%20data%20analysis%20and%20life%20science%20to%20build%20a%20quantitative%20and%20predictive%20biology&fontSize=18&fontColor=525252&fontAlign=50&fontAlignY=19&stroke=-&strokeWidth=0&animation=fadeIn&descSize=19&descAlign=50&descAlignY=40&textBg=false&color=72bf54"  />
-</div>
+<p align="center">
+  <strong>
+    Bridging computation, data analysis and life sciences to build a quantitative and predictive biology
+  </strong>
+</p>
+<br>
+<br>
 
 ###
 
