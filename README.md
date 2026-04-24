@@ -12,7 +12,7 @@
 ###
 
 - I’m currently working on [Mathematical modeling of neural circuits](https://github.com/anna-kogan/circuit-dynamics-pipeline)
-- I’m currently learning **ML and Deep Learning, Data Science tools**
+- I’m currently learning **ML and Deep Learning**
 <br>
 
 ###
