@@ -5,7 +5,7 @@
 ###
 
 <h3 align="center">
-    Bridging computation, data analysis and life sciences to build quantitative, predictive biology
+    Bridging computation, data analysis and life sciences to build quantitative, predictive biomedicine
 </h3>
 <br>
 
