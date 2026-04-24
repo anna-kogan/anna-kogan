@@ -4,9 +4,9 @@
 
 ###
 
-<h3 align="center">
+<h4 align="center">
     Bridging computation, data analysis and life sciences to build quantitative, predictive biomedicine
-</h3>
+</h4>
 <br>
 
 ###
