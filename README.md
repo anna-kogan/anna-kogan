@@ -11,12 +11,6 @@
 
 ###
 
-- I’m currently working on [Mathematical modeling of neural circuits](https://github.com/anna-kogan/circuit-dynamics-pipeline)
-- I’m currently learning **ML and Deep Learning**
-<br>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
